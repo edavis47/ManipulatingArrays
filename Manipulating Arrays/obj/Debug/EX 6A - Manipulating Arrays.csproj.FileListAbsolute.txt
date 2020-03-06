@@ -1,0 +1,12 @@
+C:\Users\Everett\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.exe.config
+C:\Users\Everett\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.exe
+C:\Users\Everett\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.pdb
+C:\Users\Everett\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.csprojAssemblyReference.cache
+C:\Users\Everett\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.exe
+C:\Users\Everett\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.exe.config
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.csprojAssemblyReference.cache
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.pdb
